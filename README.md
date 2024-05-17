@@ -59,3 +59,14 @@ graph TB
 
 ```
 
+## Usage
+- Clone the repository
+  ```sh
+  git clone https://github.com/svetaku/Bilingual-Termbase.git
+  cd Bilingual-Termbase
+- Install dependencies
+  ```sh
+  pip install -r requirements.txt
+- The dataset used for this project is not available in public domain. To run, use your own parallel EN-EU .csv dataset with English texts in the "source_lang" column, and Russian texts in the "target_lang" column
+- Run the notebooks
+
